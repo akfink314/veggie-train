@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Miscellaneous
+*.log
